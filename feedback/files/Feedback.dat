@@ -1,0 +1,904 @@
+Time: 2017/05/20  11:22:40am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:23:40am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:28:44am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:28:50am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:29:30am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:29:35am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:30:57am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:31:50am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:32:05am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+dsfsdfsfsd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:33:08am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+ggg
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:33:19am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+ggg
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  11:34:07am
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+decltype
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  17:44:18pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution heredd
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  17:47:16pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+ww
+//Write solution here
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  17:47:43pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> m;
+        for (int i = 0; i < nums.size(); ++i) {
+            if (m.count(target - nums[i])) {
+                return {m[target - nums[i]] , i};
+            }
+            m[nums[i]] = i;
+        }
+        return {};
+    }
+};
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  17:50:37pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: sssss
+Discription: 
+<iframe id="rfFrame" name="rfFrame" src="about:blank" style="display:none;"></iframe>
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  17:50:43pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: sssss
+Discription: 
+<iframe id="rfFrame" name="rfFrame" src="about:blank" style="display:none;"></iframe>
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/20  17:54:01pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution hereee
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/24  23:21:57pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here1
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/24  23:22:15pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here1
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/24  23:43:14pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/33
+
+//Write solution here
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/25  19:41:58pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here111
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/05/25  19:42:21pm
+Title: [LeetCode]Longest Substring Without Repeating Characters[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here1
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/09/01  23:43:42pm
+Title: viagra online usa
+Author: 
+Discription: 
+direct lender payday loans <a href="http://cashadvances2017.com"> online payday loans</a> &lt;a href=&quot;http://cashadvances2017.com&quot;&gt; instant payday loans&lt;/a&gt; <a href=http://cashadvances2017.com>legitimate payday loans online no credit check</a>  payday loans bad credit
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/10/05  19:02:27pm
+Title: [LintCode]在O(1)时间复杂度删除链表节点[java Solution 1]
+Author: 15829000454@163.com
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+
+/**
+ * Definition for ListNode.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int val) {
+ *         this.val = val;
+ *         this.next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    /*
+     * @param node: the node in the list should be deletedt
+     * @return: nothing
+     */
+    public void deleteNode(ListNode node) {
+        // write your code here
+        if (node == null){
+            return;
+        }
+        if(node.next != null && node.next.next != null){
+            node.val = node.next.val;
+            node.next = node.next.next;
+            return;
+        }
+        else if (node.next.next == null){
+            node.val = node.next.val;
+            node.next = null;
+        }
+        
+    }
+}
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/10/06  01:28:29am
+Title: [LintCode]交换链表当中两个节点[cpp Solution 1]
+Author: 15829000454@163.com
+Discription: 
+/*
+Given a linked list and two values v1 and v2. Swap the two nodes in the linked list with values v1 and v2. It's guaranteed there is no duplicate values in the linked list. If v1 or v2 does not exist in the given linked list, do nothing.
+ 
+Have you met this question in a real interview? Yes
+ 
+You should swap the two nodes with values v1 and v2. Do not directly swap the values of the two nodes.
+ 
+Example:
+Given 1->2->3->4->null and v1 = 2, v2 = 4.
+Return 1->4->3->2->null.
+ 
+Tags:
+Linked List
+*/
+ 
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+
+
+public class Solution {
+    /*
+     * @param head: a ListNode
+     * @param v1: An integer
+     * @param v2: An integer
+     * @return: a new head of singly-linked list
+     */
+    public ListNode swapNodes(ListNode head, int v1, int v2) {
+        // write your code here
+        if (head == null){
+            return null;
+        }
+        ListNode first = new ListNode(-1);
+        first.next = head;
+        ListNode a = first;
+        ListNode p = null, q = null;
+        while (a != null && a.next != null){
+            if ((a.next.val == v1 || a.next.val == v2) && p == null){
+                p = a;
+            }
+            
+            else if (a.next.val == v1 || a.next.val == v2){
+                q = a;
+            }
+            
+            a = a.next;
+        }
+        if (q == null || p == null){
+            return head;
+        }
+        ListNode m = p.next, n = q.next, temp = null;
+        if (m.next == n){
+            temp = n.next;
+            p.next = n;
+            n.next = m;
+            m.next = temp;
+            return first.next;
+        }
+        else {
+            temp = n.next;
+            p.next = q.next;
+            n.next = m.next;
+            q.next = m;
+            m.next = temp;
+            return first.next;
+        }
+    }
+}
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/10/27  19:59:50pm
+Title: [LintCode]空格替换[java Solution 1]
+Author: 3034089596
+Discription: 
+/*
+Title:
+Description:
+*/
+public class Solution {
+
+    public static int replaceBlank(char[] string, int length) {
+        // Write your code here
+ 
+        int count = 0;
+ 
+        for(int i = 0; i < length; i++){
+            if(string[i] == ' ')
+                count++;
+        }
+          
+        int res = length + count * 2;
+        char[] str=new char[res];
+        int j = res - 1;
+ 
+        for(int i = length - 1; i >= 0; i--){
+            if(string[i] != ' '){
+                str[j--] = string[i];
+            }
+            else{
+                str[j--] = '0';
+                str[j--] = '2';
+                str[j--] = '%';
+            }
+        }
+ 
+        return res;
+    }
+}
+//Write solution here
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/10/28  19:41:41pm
+Title: [LintCode]二叉树的层次遍历 II[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+class Solution {
+public:
+    /*
+     * @param root: A Tree
+     * @return: Level order a list of lists of integer
+     */
+    vector<vector<int>> levelOrder(TreeNode * root) {
+        // write your code here
+        queue<TreeNode*> q;
+        vector<vector<int>> res;
+        vector<int> level;
+        if(!root)
+            return res;
+        q.push(root);
+        q.push(NULL);
+        while(q.size()){
+            TreeNode* t = q.front();
+            q.pop();
+            if(t){
+                level.push_back(t->val);
+                if(t->left)
+                    q.push(t->left);
+                if(t->right)
+                    q.push(t->right);
+            }
+            else{
+                res.insert(res.end(),level);
+                level.clear();
+                if(q.size())
+                    q.push(NULL);
+            }
+        }
+        return res;
+    }
+};
+//Write solution here
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/10/31  20:56:54pm
+Title: [LintCode]快乐数[cpp Solution 1]
+Author: 969124240@qq.com
+Discription: 
+/*
+Title:
+Description:非快乐数有个特点，循环的数字中必定会有4！
+*/
+
+//Write solution here
+ while (n != 1 && n != 4) {
+            int t = 0;
+            while (n) {
+                t += (n % 10) * (n % 10);
+                n /= 10;
+            }
+            n = t;
+        }
+        return n == 1;
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/11/01  10:59:52am
+Title: [LintCode]x的平方根[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title: 
+Description: 输入为1时，输出为0，正确的输出应为1
+*/
+
+//Write solution here
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/11/01  11:05:58am
+Title: [LintCode]x的平方根[cpp Solution 1]
+Author: 969124240@qq.com
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+ long long p,q,i,mid;
+ 	    q=x/2+1;
+    	p=0;
+    	if(x==1) return 1;
+ 	    while(p+1<q){
+ 		    i=p+(q-p)/2;
+ 		    mid=i*i;
+ 		    if(mid==x) return i;
+ 		    else if(mid>x) q=i;
+ 		    else if(mid<x) p=i;
+	 }
+  	return p;
+-------------------------------------------------------------------------------------
+
+
+Time: 2017/11/07  13:52:41pm
+Title: [LintCode]在O(1)时间复杂度删除链表节点[java Solution 1]
+Author: 
+Discription: 
+/**
+ * Definition for ListNode.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int val) {
+ *         this.val = val;
+ *         this.next = null;
+ *     }
+ * }
+ */
+
+
+public class Solution {
+    /*
+     * @param node: the node in the list should be deletedt
+     * @return: nothing
+     */
+    public void deleteNode(ListNode node) {
+        // write your code here
+       node.val = node.next.val;
+       node.next = node.next.next;
+       
+    }
+}
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/01/08  11:51:44am
+Title: [LintCode]x的平方根[cpp Solution 1]
+Author: 
+Discription: 
+class Solution {
+public:
+    /*
+     * @param x: An integer
+     * @return: The sqrt of x
+     */
+    int sqrt(int x) {
+        // write your code here
+        if(x == 0)
+            return 0;
+        long long lo = 1;
+        long long hi = x/2;
+        
+        while(lo + 1 < hi){
+            long long mid = lo + (hi - lo)/2;
+            long long p = mid*mid;
+            if(p == x)
+                return mid;
+            if(p > x)
+                hi = mid;
+            else
+                lo = mid;
+        }
+        return lo;
+    }
+};
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/01/08  18:40:43pm
+Title: [LintCode]链表求和[cpp Solution 1]
+Author: 
+Discription: 
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+
+
+class Solution {
+public:
+    /*
+     * @param l1: the first list
+     * @param l2: the second list
+     * @return: the sum list of l1 and l2 
+     */
+    ListNode * addLists(ListNode * l1, ListNode * l2) {
+        ListNode *pre = new ListNode(-1);
+        ListNode *tmp = pre;
+        int carry = 0;
+        while(l1 && l2) {
+            int sum = l1->val + l2->val + carry;
+            tmp -> next = new ListNode(sum%10);
+            carry = sum / 10;
+            l1 = l1 -> next;
+            l2 = l2 -> next;
+            tmp = tmp -> next;
+        }
+        
+        while(l1) {
+            int sum = l1->val + carry;
+            tmp -> next = new ListNode(sum%10);
+            carry = sum / 10;
+            l1 = l1 -> next;
+            tmp = tmp -> next;
+        }
+        
+        while(l2) {
+            int sum = l2 -> val + carry;
+            tmp -> next = new ListNode(sum%10);
+            carry = sum / 10;
+            l2 = l2 -> next;
+            tmp = tmp -> next;
+        }
+        
+        if(carry) {
+            tmp -> next = new ListNode(carry);
+        }
+        
+        tmp = pre -> next;
+        delete(pre);
+        return tmp;
+        // write your code here
+    }
+};
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/03/02  15:48:54pm
+Title: [LeetCode]Two Sum[cpp Solution 1]
+Author: 11
+Discription: 
+/*
+Title:
+Description:
+*/
+11
+//Write solution here
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/03/02  18:15:50pm
+Title: [LintCode]A B问题[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here1
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/03/02  18:49:01pm
+Title: [LintCode]A B问题[cpp Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here1
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/03/25  22:43:22pm
+Title: [LintCode]两数之和[java Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+int[] sum = new int[2];
+        for (int i = 0; i < numbers.length; i++) {
+            for (int j = i+1; j < numbers.length; j++) {
+                if(target - numbers[i] == numbers[j]) {
+                    sum[0] = i;
+                    sum[1] = j;
+                }
+            }
+        }
+        return sum;
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/04/16  23:19:51pm
+Title: [LintCode]爬楼梯[java Solution 1]
+Author: 
+Discription: 
+/*
+Title:
+Description:
+*/
+
+//Write solution here
+public class Solution {
+    /**
+     * @param n: An integer
+     * @return: An integer
+     */
+    public int climbStairs(int n) {
+        if (n <= 1) {
+            return n;
+        }
+        if (n == 2) {
+            return 2;
+        }
+        int[] path = new int[n];
+        path[0] = 1;
+        path[1] = 2;
+        for (int i = 2; i < n; i++) {
+            path[i] = path[i - 1] + path[i - 2];
+        }
+        return path[n - 1];
+    }
+}
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/04/28  00:19:32am
+Title: [LeetCode]Permutation in String[py Solution 1]
+Author: 
+Discription: 
+Howdy OJ答案查询
+
+Money Robot Submitter is the most powerful SEO automation tool.
+Designed to publishing your content and backlinks to thousands of websites.
+Read More:  http://bit.ly/Money_Robot_SEO
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/05/08  19:21:10pm
+Title: [LeetCode&stitle=Permutation in String&slang=py&sfilename=Solution 1][ ]
+Author: 
+Discription: 
+Hi ojcoder.cn
+
+Money Robot Submitter is the most powerful SEO automation tool.
+Designed to publishing your content and backlinks to thousands of websites.
+Read More:  https://www.moneyrobot.com/Axyy
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/05/09  18:43:57pm
+Title: [LeetCode&stitle=Permutation in String&slang=py&sfilename=Solution 1][ ]
+Author: 
+Discription: 
+Howdy ojcoder.cn
+
+  *  With us, you get all the marketing tips and tools you need to:
+      - Driving Traffic to your Website, Product or Project !
+      - Find your audience, build a relationship and sell your products ! 
+  *  We value your privacy and would never spam you:   https://forms.aweber.com/form/30/1755761130.htm
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/05/21  07:44:49am
+Title: [LeetCode&stitle=Permutation in String&slang=py&sfilename=Solution 1][ ]
+Author: 
+Discription: 
+Hi there,
+
+I wanted to let you in on an amazing secret…
+About 4 online methods of making instant cash…
+
+Methods that literally ANYONE can use…
+From anywhere in the world…
+Without spending any more than 30 minutes of their day.
+
+There's zero risk when you take action today and pick up your copy of 30 Minute Money Methods.
+Click Here Now To Sign up ==>  http://bit.ly/30_Minute_Methods
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/06/11  14:57:40pm
+Title: [LeetCode&stitle=Permutation in String&slang=py&sfilename=Solution 1][ ]
+Author: 
+Discription: 
+LEARN How to earn $500 per month from ClixSense !!
+“METHOD TESTED BY ME” You can see there are number of ways in ClixSense to make money. 
+
+I will explain you each of the method so that you can make a big income from ClixSense. 
+Your income will be slow for the first months and after that you will be able to make better income.
+
+Watch this video: http://bit.ly/Learn_ClixSense
+
+================================================================
+- IF YOU DO NOT WANT TO RECEIVE THIS MESSAGE !!
+- SEND EMAIL WITH PAGE LINKS THAT YOU DO NOT WANT TO BE CONTACTED HERE==>  unsubscribe_for@myself.com
+  Thank you very much !!
+================================================================
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/06/16  22:26:38pm
+Title: [LeetCode]Permutation in String[py Solution 1]
+Author: 
+Discription: 
+Hi, My name is Dave and I was just looking at your website ojcoder.cn and thought perhaps I would message you on your contact form to see if you need help.  I really liked your website but noticed you weren't getting a lot of traffic to your site and your Alexa ranking wasn't as strong as it could be.  
+
+http://highscoreseo.com
+
+I can get 1,000’s of visitors looking at ojcoder.cn, ready to buy your product, service or signup for your offer.  Our advertising network of over 9000 websites provides a low cost and effective online marketing solution that actually works. We can help your business get more online quality traffic by advertising your business on websites that are targeted to your market. The internet is a vast entity and kick starting your online business doesn’t have to take a ridiculous amount of cash. We’ll send real people to see your web site starting almost immediately!  
+In fact, I can get 10,000 highly targeted visitors to your website for as little as $29 just so you can test out our service. 
+
+Right now to make things really exciting you can get 200,000 Targeted visitors to you site in 30 days for only $199.  If you'd like to talk personally please give me or Jim a call at 480-331-6775 9 to 5 MST USA. 
+
+I have a short video here that explains how everything works http://highscoreseo.com 
+
+Best Regards,
+Dave
+HighScoreSEO.com
+http://highscoreseo.com
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/07/15  04:26:22am
+Title: [LeetCode]Permutation in String[py Solution 1]
+Author: 
+Discription: 
+The 2 Week Diet is an extreme rapid weight loss system that can help you lose up to 16 pounds of pure body fat in just 2 weeks! 
+Get your personalized diet plan for 2 week weight loss, our 14 day diet, and how to lose weight in 2 weeks from our official website.
+
+Get Plan  == >>    http://bit.ly/The_2_Week_Diet_Ok
+-------------------------------------------------------------------------------------
+
+
+Time: 2018/07/15  14:18:52pm
+Title: [LeetCode]Permutation in String[py Solution 1]
+Author: 
+Discription: 
+Hi, My name is Jeff, I work as a Internet Marketing Consultant, and was doing research for another client when I came across your site  ojcoder.cn. and thought I would message you on your contact form. 
+
+After doing a quick analysis of your website, I noticed a couple of issues that are most likely causing people to leave without making contact.
+I really liked your website but noticed you weren't getting a lot of traffic to your site and your Alexa ranking wasn't as strong as it could be.
+
+https://TopTargetSEO.com  
+
+I can get 1,000’s of visitors looking at ojcoder.cn, ready to buy your product, service or signup for your offer.  Our advertising network of over 9000 websites provides a low cost and effective online marketing solution that actually works. We can help your business get more online quality traffic by advertising your business on websites that are targeted to your market. 
+The internet is a vast entity and kick starting your online business doesn’t have to take a ridiculous amount of cash.
+We’ll send real people to see your web site starting almost immediately!  
+
+In fact, I can get 10,000 highly targeted visitors to your website for as little as $29 just so you can test out our service. 
+
+Right now to make things really exciting you can get 200,000 Targeted visitors to you site in 30 days for only $199.  If you'd like to talk personally please give me a call at 480-457-0165 9 to 5 MST USA. 
+
+I have a short video here that explains how everything works https://toptargetseo.com  
+
+Best Regards,
+Jeff
+https://TopTargetSEO.com
+support@toptargetseo.com
+-------------------------------------------------------------------------------------
+
+
